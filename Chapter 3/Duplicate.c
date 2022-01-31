@@ -36,6 +36,7 @@ int main()
             printf("%d ", array[i]);
         }
     }
+    // test from os win10
 
     return 0;
 }
