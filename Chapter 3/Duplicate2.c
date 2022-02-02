@@ -12,7 +12,7 @@ int main(void)
     }
 
     for (int i = 0; i < 10; i++)
-    {
+                 {
         if (array2[i] > 0)
         {
             printf("(%d => %d) ", i, array2[i]);
