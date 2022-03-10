@@ -1,3 +1,4 @@
+// Example #1: GCD Using for loop and if Statement
 // #include <stdio.h>
 // int main()
 // {
